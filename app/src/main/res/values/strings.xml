@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Apotek SukaMaju</string>
+    <string name="kode_barang">Kode Barang</string>
+    <string name="nama_barang">Nama Barang</string>
+    <string name="jumlah_stok">Jumlah Stok</string>
+    <string name="baru">baru</string>
+    <string name="simpan">simpan</string>
+    <string name="masukkan_kode">masukkan kode</string>
+    <string name="masukkan_nama">masukkan nama</string>
+    <string name="masukkan_stok">masukkan stok</string>
+    <string name="minimarket_inventory">Apotek SukaMaju</string>
+    <string name="inputdata">input data</string>
+    <string name="editdata">edit data</string>
+    <string name="kembali">kembali</string>
+    <string name="input_data">INPUT DATA</string>
+    <string name="edit_data">EDIT DATA</string>
+    <string name="ubah">Ubah</string>
+    <string name="hapus">Hapus</string>
+    <string name="tampil_data">Tampil Data</string>
+    <string name="btninputdata">Input Data</string>
+    <string name="btneditdata">Edit Data</string>
+    <string name="minilogo">mini</string>
+</resources>
